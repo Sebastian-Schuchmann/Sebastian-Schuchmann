@@ -11,7 +11,7 @@ Twitter: https://twitter.com/SebastianSchuc7
 
   <samp>
   <div>
-    <img src="./animation_200_kd387q13.gif" width="40px" align="center">
+    <img src="https://github.com/Sebastian-Schuchmann/Sebastian-Schuchmann/blob/master/animation_200_kd387q13.gif" width="40px" align="center">
   </div>
   </samp>
 
