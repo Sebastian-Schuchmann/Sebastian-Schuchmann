@@ -7,3 +7,11 @@ Youtube: http://youtube.com/c/SebastianSchuchmannAI
 Medium: https://medium.com/@schuchmannsebastian
 
 Twitter: https://twitter.com/SebastianSchuc7
+
+
+  <samp>
+  <div>
+    <img src="./animation_200_kd387q13.gif" width="40px" align="center">
+  </div>
+  </samp>
+
