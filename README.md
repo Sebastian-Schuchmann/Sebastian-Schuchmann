@@ -8,6 +8,7 @@ Medium: https://medium.com/@schuchmannsebastian
 
 Twitter: https://twitter.com/SebastianSchuc7
 
+Co-Founder of Ditached: https://ditached.com
 
   <samp>
   <div>
